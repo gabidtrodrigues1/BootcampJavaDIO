@@ -1,0 +1,7 @@
+com/exemplo/pagamentos/factory/PagamentoFactoryTest.class
+com/exemplo/pagamentos/PagamentosApplicationTests.class
+com/exemplo/pagamentos/observer/PublicadorEventosTest.class
+com/exemplo/pagamentos/singleton/GerenciadorConfiguracaoTest.class
+com/exemplo/pagamentos/chain/ValidadorPedidoTest.class
+com/exemplo/pagamentos/strategy/EstrategiaPagamentoTest.class
+com/exemplo/pagamentos/service/PedidoServiceTest.class

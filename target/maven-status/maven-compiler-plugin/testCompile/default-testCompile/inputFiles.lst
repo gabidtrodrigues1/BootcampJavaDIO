@@ -1,0 +1,7 @@
+/home/gabriela.rodrigues/git/cursojava/teste1/src/test/java/com/exemplo/pagamentos/singleton/GerenciadorConfiguracaoTest.java
+/home/gabriela.rodrigues/git/cursojava/teste1/src/test/java/com/exemplo/pagamentos/PagamentosApplicationTests.java
+/home/gabriela.rodrigues/git/cursojava/teste1/src/test/java/com/exemplo/pagamentos/factory/PagamentoFactoryTest.java
+/home/gabriela.rodrigues/git/cursojava/teste1/src/test/java/com/exemplo/pagamentos/chain/ValidadorPedidoTest.java
+/home/gabriela.rodrigues/git/cursojava/teste1/src/test/java/com/exemplo/pagamentos/observer/PublicadorEventosTest.java
+/home/gabriela.rodrigues/git/cursojava/teste1/src/test/java/com/exemplo/pagamentos/service/PedidoServiceTest.java
+/home/gabriela.rodrigues/git/cursojava/teste1/src/test/java/com/exemplo/pagamentos/strategy/EstrategiaPagamentoTest.java
